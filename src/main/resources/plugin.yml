@@ -1,0 +1,4 @@
+name: noCraftingCore
+version: '0.1'
+main: qbsss.noCraftingCore.Main
+api-version: '1.21'
